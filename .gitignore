@@ -1,0 +1,18 @@
+# Dados
+data/
+*.csv
+
+# Ambientes Virtuais
+.env
+.venv
+env/
+venv/
+
+# Caches
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints
+
+# Arquivos de IDE
+.idea/
+.vscode/
